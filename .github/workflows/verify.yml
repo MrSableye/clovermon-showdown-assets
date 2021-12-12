@@ -12,5 +12,5 @@ jobs:
           node-version: '14'
       - name: Install npm dependencies
         run: npm install
-      - name: Build card cache
+      - name: Verify
         run: npm run verify-all
