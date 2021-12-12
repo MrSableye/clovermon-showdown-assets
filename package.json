@@ -1,0 +1,22 @@
+{
+  "name": "clovermon-showdown-assets",
+  "version": "1.0.0",
+  "description": "This is a central repository for sprites and audio related to [Clovermon Showdown](https://github.com/MrSableye/clovermon-showdown) and the [Clovermon Showdown Client](https://github.com/MrSableye/clovermon-showdown-client).",
+  "main": "test.js",
+  "scripts": {
+    "build": "tsc",
+    "verify-all": "npm run build && node dist/verify --directory clover",
+    "verify-all-prune": "npm run build && node dist/verify --deleteUnexpected --directory clover --directory clover-cap"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fp-ts": "^2.11.5",
+    "io-ts": "^2.2.16",
+    "yargs": "^17.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "@types/yargs": "^17.0.7"
+  }  
+}
