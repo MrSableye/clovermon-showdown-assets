@@ -170,9 +170,11 @@ args.directory.forEach((directory) => {
     hasError = true;
   }
 
+  console.log(`=====ERRORS (${response.errors.length}) =====`);
   response.errors.forEach((error) => console.error(error));
 
-  if (response.warnings) {
+  if (args.showWarnings && response.warnings) {
+    console.log(`===== WARNINGS (${response.warnings.length}) =====`);
     response.warnings.forEach((warning) => console.warn(warning));
   }
 });
