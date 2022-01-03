@@ -46,10 +46,17 @@ const verifyDirectory = (
   const actualDirectory = joinPath(baseDirectory, path);
 
   if (!existsSync(actualDirectory)) {
-    return {
-      errors: [`Directory ${path} does not exist`],
-      warnings: [],
-    };
+    const errorMessage = `Directory ${path} does not exist`;
+
+    return required
+      ? {
+        errors: [errorMessage],
+        warnings: [],
+      }
+      : {
+        errors: [],
+        warnings: [errorMessage],
+      }
   }
 
   const directoryFiles = readdirSync(actualDirectory).reduce<Record<string, { seen: boolean }>>((directoryFiles, fileName) => {
