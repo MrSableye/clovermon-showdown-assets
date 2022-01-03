@@ -166,7 +166,7 @@ let hasError = false;
 args.directory.forEach((directory) => {
   const response = verifyDirectoryManifest(directory, args.deleteUnexpected);
 
-  if (response.errors.length) {
+  if (response.errors.length > 0) {
     hasError = true;
   }
 
