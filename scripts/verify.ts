@@ -171,11 +171,11 @@ args.directory.forEach((directory) => {
   }
 
   console.log(`===== ERRORS (${response.errors.length}) =====`);
-  response.errors.forEach((error) => console.error(error));
+  response.errors.forEach((error) => console.log(error));
 
   if (args.showWarnings && response.warnings) {
     console.log(`===== WARNINGS (${response.warnings.length}) =====`);
-    response.warnings.forEach((warning) => console.warn(warning));
+    response.warnings.forEach((warning) => console.log(warning));
   }
 });
 
