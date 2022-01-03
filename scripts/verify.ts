@@ -170,7 +170,7 @@ args.directory.forEach((directory) => {
     hasError = true;
   }
 
-  console.log(`=====ERRORS (${response.errors.length}) =====`);
+  console.log(`===== ERRORS (${response.errors.length}) =====`);
   response.errors.forEach((error) => console.error(error));
 
   if (args.showWarnings && response.warnings) {
