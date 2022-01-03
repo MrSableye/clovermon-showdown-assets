@@ -5,7 +5,7 @@
   "main": "test.js",
   "scripts": {
     "build": "tsc",
-    "verify-all": "npm run build && node dist/verify --directory clover",
+    "verify-all": "npm run build && node dist/verify --directory clover --directory clover-cap",
     "verify-all-prune": "npm run build && node dist/verify --deleteUnexpected --directory clover --directory clover-cap"
   },
   "author": "",

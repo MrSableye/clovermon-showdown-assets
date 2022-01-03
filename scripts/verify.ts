@@ -63,11 +63,12 @@ const verifyDirectory = (
     };
   }, {});
 
-  ignoredEntities.forEach((ignoredEntity) => {
-    const fileName = `${ignoredEntity}.${extension}`;
-
-    directoryFiles[fileName] = { seen: true };
-  });
+  const entitiesToIgnore = ignoredEntities.reduce<Record<string, true>>((entitiesToIgnore, ignoredEntity) => {
+    return {
+      ...entitiesToIgnore,
+      [ignoredEntity]: true,
+    }
+  }, {});
 
   const verificationResponse: VerificationResponse = {
     errors: [],
@@ -78,13 +79,19 @@ const verifyDirectory = (
     const fileName = `${entity}.${extension}`;
 
     if (!directoryFiles[fileName]) {
-      if (required) {
+      if (entitiesToIgnore[entity]) {
+
+      } else if (required) {
         verificationResponse.errors.push(`File ${joinPath(path, fileName)} missing`);
       } else {
         verificationResponse.warnings.push(`File ${joinPath(path, fileName)} missing`);
       }
     } else {
-      directoryFiles[fileName].seen = true;
+      if (entitiesToIgnore[entity]) {
+        verificationResponse.warnings.push(`File ${joinPath(path, fileName)} ignored but is present`);
+      }
+
+      directoryFiles[fileName] = { seen: true };
     }
   });
 
