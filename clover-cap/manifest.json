@@ -78,7 +78,13 @@
       "strollge",
       "disbeary",
       "disbeary-ebil",
-      "eccosmic",
+      "eccosmic-magellanic",
+      "eccosmic-sol",
+      "eccosmic-starburst",
+      "eccosmic-quasar",
+      "eccosmic-andromeda",
+      "eccosmic-nebula",
+      "eccosmic-milkyway",
       "weatherbane",
       "cyclonian",
       "frijolero",
@@ -236,7 +242,8 @@
       "chasumo-mega",
       "goryannus-mega",
       "spookscare-mega",
-      "honrade-mega"
+      "honrade-mega",
+      "doomsday"
     ],
     "directories": [{
       "extension": "png",
