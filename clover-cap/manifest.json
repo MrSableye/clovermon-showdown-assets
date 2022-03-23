@@ -248,7 +248,9 @@
       "honrade-mega",
       "doomsday",
       "autumn",
-      "waterweedle"
+      "waterweedle",
+      "sporestool",
+      "peashroom"
     ],
     "directories": [{
       "extension": "png",
@@ -289,8 +291,6 @@
         "faptime-mega",
         "spookscare-mega",
         "honrade-mega",
-        "sporestool",
-        "peashroom"
       ]
     }, {
       "extension": "png",
