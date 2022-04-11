@@ -441,6 +441,43 @@
       "ignoredEntities": []
     }, {
       "extension": "png",
+      "required": true,
+      "path": "sprites/pokemon-icons",
+      "ignoredEntities": [
+        "acufront-f",
+        "acufront-w",
+        "acufront-i",
+        "fontaba-a",
+        "fontaba-f",
+        "fontaba-int",
+        "fontaba-r9k",
+        "fontaba-trv",
+        "fontaba-vr",
+        "fontaba-b",
+        "fontaba-fa",
+        "fontaba-jp",
+        "fontaba-s",
+        "fontaba-tv",
+        "fontaba-x",
+        "fontaba-c",
+        "fontaba-fit",
+        "fontaba-k",
+        "fontaba-s4s",
+        "fontaba-v",
+        "fontaba-z",
+        "fontaba-co",
+        "fontaba-g",
+        "fontaba-out",
+        "fontaba-soc",
+        "fontaba-vg",
+        "fontaba-d",
+        "fontaba-h",
+        "fontaba-pol",
+        "fontaba-sp",
+        "fontaba-vp"
+      ]
+    }, {
+      "extension": "png",
       "required": false,
       "path": "sprites/afd",
       "ignoredEntities": []
