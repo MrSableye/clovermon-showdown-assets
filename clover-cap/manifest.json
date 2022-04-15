@@ -159,7 +159,7 @@
       "vermingio",
       "rootchew",
       "fucker",
-      "vineboom",
+      "vinebomb",
       "blobbos-henesys",
       "blobbos-galar",
       "blobbos-valian",
@@ -251,7 +251,9 @@
       "waterweedle",
       "sporestool",
       "peashroom",
-      "heaventoad"
+      "heaventoad",
+      "horse",
+      "haarshogun"
     ],
     "directories": [{
       "extension": "png",
