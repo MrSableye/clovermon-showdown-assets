@@ -261,7 +261,6 @@
       "path": "sprites/gen5",
       "ignoredEntities": [
         "bearedaze",
-        "krissy",
         "ankhira",
         "ankhpu",
         "squithee",
@@ -274,24 +273,14 @@
         "magghost",
         "coccurn",
         "spiranha",
-        "mamini",
-        "frijolero",
-        "picantero",
         "venireal",
         "sokumite",
         "serpervent",
         "hamstatic",
         "trickling",
-        "drattel",
-        "oogabuga-mega",
-        "krokizon-mega",
-        "illumatrix-mega",
-        "lizakbar-mega",
-        "rectreem-mega",
         "emplyin-mega",
         "smellox-mega",
-        "faptime-mega",
-        "honrade-mega"
+        "faptime-mega"
       ]
     }, {
       "extension": "png",
@@ -299,8 +288,6 @@
       "path": "sprites/gen5-back",
       "ignoredEntities": [
         "bearedaze",
-        "krissy",
-        "glaciun",
         "ankhira",
         "ankhpu",
         "squithee",
@@ -314,22 +301,15 @@
         "coccurn",
         "spiranha",
         "mamini",
-        "frijolero",
-        "picantero",
-        "chamelee",
         "venireal",
         "sokumite",
         "serpervent",
         "hamstatic",
         "trickling",
         "drattel",
-        "oogabuga-mega",
-        "krokizon-mega",
-        "illumatrix-mega",
         "emplyin-mega",
         "smellox-mega",
-        "faptime-mega",
-        "honrade-mega"
+        "faptime-mega"
       ]
     }, {
       "extension": "png",
@@ -337,7 +317,6 @@
       "path": "sprites/gen5-shiny",
       "ignoredEntities": [
         "bearedaze",
-        "krissy",
         "ankhira",
         "ankhpu",
         "squithee",
@@ -350,24 +329,14 @@
         "magghost",
         "coccurn",
         "spiranha",
-        "mamini",
-        "frijolero",
-        "picantero",
-        "chamelee",
         "venireal",
         "sokumite",
         "serpervent",
         "hamstatic",
-        "hyduck",
         "trickling",
-        "drattel",
-        "oogabuga-mega",
-        "krokizon-mega",
-        "illumatrix-mega",
         "emplyin-mega",
         "smellox-mega",
-        "faptime-mega",
-        "honrade-mega"
+        "faptime-mega"
       ]
     }, {
       "extension": "png",
@@ -375,8 +344,6 @@
       "path": "sprites/gen5-back-shiny",
       "ignoredEntities": [
         "bearedaze",
-        "krissy",
-        "glaciun",
         "ankhira",
         "ankhpu",
         "squithee",
@@ -390,23 +357,15 @@
         "coccurn",
         "spiranha",
         "mamini",
-        "frijolero",
-        "picantero",
-        "chamelee",
         "venireal",
         "sokumite",
         "serpervent",
         "hamstatic",
         "trickling",
         "drattel",
-        "oogabuga-mega",
-        "krokizon-mega",
-        "illumatrix-mega",
         "emplyin-mega",
         "smellox-mega",
-        "hohohoming-mega",
-        "faptime-mega",
-        "honrade-mega"
+        "faptime-mega"
       ]
     }, {
       "extension": "png",
