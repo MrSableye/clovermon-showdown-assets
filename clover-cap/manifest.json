@@ -257,7 +257,10 @@
       "peashroom",
       "heaventoad",
       "horse",
-      "haarshogun"
+      "haarshogun",
+      "emojinn",
+      "ointmite",
+      "ointmite-mega"
     ],
     "directories": [{
       "extension": "png",
@@ -341,8 +344,6 @@
         "emplyin-mega",
         "smellox-mega",
         "faptime-mega",
-        "ointmite",
-        "ointmite-mega"
       ]
     }, {
       "extension": "png",
