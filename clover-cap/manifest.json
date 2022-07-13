@@ -100,6 +100,8 @@
       "smogars",
       "lepooze",
       "lunabbit",
+      "tadpoison",
+      "bretkhelm",
       "berfgoyle",
       "helmata",
       "punkuyu",
@@ -286,14 +288,7 @@
       "required": true,
       "path": "sprites/gen5",
       "ignoredEntities": [
-        "bearedaze",
-        "ankhira",
-        "ankhpu",
         "envile",
-        "pegui",
-        "pechit",
-        "spiranha",
-        "emplyin-mega",
         "faptime-mega"
       ]
     }, {
@@ -301,14 +296,7 @@
       "required": true,
       "path": "sprites/gen5-back",
       "ignoredEntities": [
-        "bearedaze",
-        "ankhira",
-        "ankhpu",
         "envile",
-        "pegui",
-        "pechit",
-        "spiranha",
-        "emplyin-mega",
         "faptime-mega"
       ]
     }, {
@@ -316,14 +304,7 @@
       "required": true,
       "path": "sprites/gen5-shiny",
       "ignoredEntities": [
-        "bearedaze",
-        "ankhira",
-        "ankhpu",
         "envile",
-        "pegui",
-        "pechit",
-        "spiranha",
-        "emplyin-mega",
         "faptime-mega"
       ]
     }, {
@@ -331,14 +312,7 @@
       "required": true,
       "path": "sprites/gen5-back-shiny",
       "ignoredEntities": [
-        "bearedaze",
-        "ankhira",
-        "ankhpu",
         "envile",
-        "pegui",
-        "pechit",
-        "spiranha",
-        "emplyin-mega",
         "faptime-mega"
       ]
     }, {
