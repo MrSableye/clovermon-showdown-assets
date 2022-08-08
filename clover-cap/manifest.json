@@ -291,32 +291,24 @@
       "required": true,
       "path": "sprites/gen5",
       "ignoredEntities": [
-        "envile",
-        "faptime-mega"
       ]
     }, {
       "extension": "png",
       "required": true,
       "path": "sprites/gen5-back",
       "ignoredEntities": [
-        "envile",
-        "faptime-mega"
       ]
     }, {
       "extension": "png",
       "required": true,
       "path": "sprites/gen5-shiny",
       "ignoredEntities": [
-        "envile",
-        "faptime-mega"
       ]
     }, {
       "extension": "png",
       "required": true,
       "path": "sprites/gen5-back-shiny",
       "ignoredEntities": [
-        "envile",
-        "faptime-mega"
       ]
     }, {
       "extension": "png",
