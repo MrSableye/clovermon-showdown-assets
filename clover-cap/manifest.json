@@ -216,7 +216,7 @@
 			"blobbossus-lime",
 			"blobbossus-orange",
 			"blobbossus-pink",
-	    		"blobbossus-purple",
+	    "blobbossus-purple",
 			"blobbossus-red",
 			"blobbossus-white",
 			"blobbossus-yellow",
@@ -323,7 +323,7 @@
       "blobbos-snowman",
       "blobbos-present",
       "blobbos-mandm",
-	"blobbos-trap",
+	    "blobbos-trap",
       "blobbos-bait",
       "blobbosbait-mega",
       "blobbos-chainsaw",
@@ -472,6 +472,18 @@
       "extension": "mp3",
       "required": false,
       "path": "audio/cries",
+      "ignoredEntities": []
+    }]
+  }, {
+    "entities": [
+      "Glass",
+      "Nuclear",
+      "Plastic"
+    ],
+    "directories": [{
+      "extension": "png",
+      "required": true,
+      "path": "sprites/types",
       "ignoredEntities": []
     }]
   }]
