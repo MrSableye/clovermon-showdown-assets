@@ -427,14 +427,14 @@
       "barabyss",
       "seaman",
       "polybrawn",
-      "polybrawnh",
-      "polybrawnw",
-      "polybrawni",
-      "polybrawnp",
-      "polybrawnk",
-      "saccestoda",
+      "polybrawn-h",
+      "polybrawn-w",
+      "polybrawn-i",
+      "polybrawn-p",
+      "polybrawn-k",
+      "saccestod-a",
       "skuba",
-      "skubaanti"
+      "skuba-anti"
     ],
     "directories": [{
       "extension": "png",
