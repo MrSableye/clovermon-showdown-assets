@@ -392,6 +392,8 @@
       "blobbosswitch-red",
       "blobbos-volcano",
       "blobbos-homestuck",
+      "blobbos-robotnik",
+      "blobbos-idiot",
       "cavernsnore",
       "ironblob",
       "sobbolb",
@@ -514,7 +516,9 @@
       "junkbane",
       "weathervein",
       "tsuchinoko",
-      "fukinsuks"
+      "fukinsuks",
+      "vintini",
+      "joelbat"
     ],
     "directories": [{
       "extension": "png",
