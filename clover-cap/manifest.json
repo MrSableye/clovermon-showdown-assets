@@ -353,7 +353,7 @@
       "blobbos-spamton",
       "blobbos-gene",
       "blobbos-caca",
-      "blobbos-gmax",
+      "blobbos-gigantamax",
       "blobbos-primal", 
       "blobbos-swamp",
       "blobbos-kirby",
@@ -542,7 +542,9 @@
       "joelbat",
       "worldle",
       "zangursed",
-      "emaneko"
+      "emaneko",
+      "sectsei",
+      "hofucyea"
     ],
     "directories": [{
       "extension": "png",
