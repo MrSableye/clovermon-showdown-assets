@@ -571,6 +571,7 @@
       "flochelin",
       "emestacean",
       "piiviasuustro",
+      "graizze",
       "flamiptile",
       "slimifu",
       "yamigiri",
@@ -634,6 +635,11 @@
       "extension": "mp3",
       "required": false,
       "path": "audio/cries",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": false,
+      "path": "sprites/pokemon-icons",
       "ignoredEntities": []
     }]
   }, {
