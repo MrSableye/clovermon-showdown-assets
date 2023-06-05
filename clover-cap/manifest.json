@@ -632,7 +632,7 @@
       "ignoredEntities": []
     }, {
       "extension": "mp3",
-      "required": true,
+      "required": false,
       "path": "audio/cries",
       "ignoredEntities": [
       "bearedaze",
