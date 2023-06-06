@@ -1176,12 +1176,10 @@
       "fukinsuks",
       "joelbat",
       "worldle",
-      "zangursed",
       "emaneko",
       "gunkirby",
       "hofucyea",
       "stunfisk-mega",
-      "tenyuu",
       "slimifu",
       "yamigiri",
       "towhorse",
@@ -1197,8 +1195,7 @@
       "unghost",
       "fucksteel",
       "uirapuobscuri"
-      ],
-      "ignoredEntities": []
+      ]
     }, {
       "extension": "png",
       "required": false,
