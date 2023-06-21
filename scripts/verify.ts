@@ -177,11 +177,11 @@ args.directory.forEach((directory) => {
     hasError = true;
   }
 
-  console.log(`===== ERRORS (${response.errors.length}) =====`);
+  console.log(`===== [${directory}] ERRORS (${response.errors.length}) =====`);
   response.errors.forEach((error) => console.log(error));
 
   if (args.showWarnings && response.warnings) {
-    console.log(`===== WARNINGS (${response.warnings.length}) =====`);
+    console.log(`===== [${directory}] WARNINGS (${response.warnings.length}) =====`);
     response.warnings.forEach((warning) => console.log(warning));
   }
 });
