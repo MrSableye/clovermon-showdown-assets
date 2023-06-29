@@ -1258,7 +1258,8 @@
     "entities": [
       "Glass",
       "Nuclear",
-      "Plastic"
+      "Plastic",
+      "Alber"
     ],
     "directories": [{
       "extension": "png",
