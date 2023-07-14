@@ -1,7 +1,7 @@
 {
   "entityDirectories": [{
     "entities": [
-      ["herculecross",
+      "herculecross",
       "diebbuk",
       "diebbyuk",
       "pixall",
@@ -3886,7 +3886,7 @@
       "sharpoat",
       "houndhell",
       "pinswing",
-      "aerodactold"]
+      "aerodactold"
     ],
     "directories": [{
       "extension": "png",
