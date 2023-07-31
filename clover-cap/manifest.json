@@ -652,7 +652,9 @@
       "missirlia",
       "missingvoir",
       "missingvoir-mega",
-      "hemogoblin"
+      "hemogoblin",
+      "dussans",
+      "francine"
     ],
     "directories": [{
       "extension": "png",
@@ -707,7 +709,9 @@
       "extension": "png",
       "required": false,
       "path": "sprites/pokemon-icons",
-      "ignoredEntities": []
+      "ignoredEntities": [
+
+      ]
     }]
   }, {
     "entities": [
