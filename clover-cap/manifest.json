@@ -634,7 +634,6 @@
       "ghastropod",
       "tartis",
       "terratarus",
-      "stowlet",
       "strixnight",
       "inkrow",
       "liquill",
@@ -703,8 +702,7 @@
       "extension": "mp3",
       "required": false,
       "path": "audio/cries",
-      "ignoredEntities": [
-      ]
+      "ignoredEntities": []
     }, {
       "extension": "png",
       "required": false,
