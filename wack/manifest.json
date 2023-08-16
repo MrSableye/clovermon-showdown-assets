@@ -4010,11 +4010,6 @@
       "ignoredEntities": []
     }, {
       "extension": "png",
-      "required": true,
-      "path": "sprites/pokemon-icons",
-      "ignoredEntities": []
-    }, {
-      "extension": "png",
       "required": false,
       "path": "sprites/afd",
       "ignoredEntities": []
@@ -4111,17 +4106,6 @@
       "extension": "png",
       "required": true,
       "path": "sprites/trainers",
-      "ignoredEntities": []
-    }]
-  }, {
-    "entities": [
-      "itemicons-sheet",
-      "pokemonicons-sheet"
-    ],
-    "directories": [{
-      "extension": "png",
-      "required": true,
-      "path": "sprites",
       "ignoredEntities": []
     }]
   }, {
