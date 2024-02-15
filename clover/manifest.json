@@ -418,7 +418,8 @@
       "deisnutz",
       "adesign",
       "clovenix",
-      "jewipede"
+      "jewipede",
+      "mech"
     ],
     "directories": [{
       "extension": "png",
@@ -534,7 +535,8 @@
         "fontaba-h",
         "fontaba-pol",
         "fontaba-sp",
-        "fontaba-vp"
+        "fontaba-vp",
+        "mech"
       ]
     }]
   }, {
