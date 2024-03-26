@@ -707,5 +707,20 @@
       "path": "audio",
       "ignoredEntities": []
     }]
+  }, {
+    "entities": [
+      "substitute"
+    ],
+    "directories": [{
+      "extension": "png",
+      "required": true,
+      "path": "sprites/clover",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": true,
+      "path": "sprites/clover-back",
+      "ignoredEntities": []
+    }]
   }]
 }
