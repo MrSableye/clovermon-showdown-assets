@@ -331,7 +331,8 @@
         "blobbos-soda", 
         "blobbos-bell", 
         "blobbos-trans",
-        "blobbos-waterwraith"
+        "blobbos-waterwraith",
+        "blobbos-deepai"
       ],
       "directories": [
         {
