@@ -1,0 +1,48 @@
+{
+  "entityDirectories": [{
+    "entities": [
+      "carpest"
+    ],
+    "directories": [{
+      "extension": "png",
+      "required": true,
+      "path": "sprites/gen5",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": true,
+      "path": "sprites/gen5-back",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": true,
+      "path": "sprites/gen5-shiny",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": true,
+      "path": "sprites/gen5-back-shiny",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": false,
+      "path": "sprites/afd",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": false,
+      "path": "sprites/afd-back",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": false,
+      "path": "sprites/afd-shiny",
+      "ignoredEntities": []
+    }, {
+      "extension": "png",
+      "required": false,
+      "path": "sprites/afd-back-shiny",
+      "ignoredEntities": []
+    }]
+  }]
+}
