@@ -5,9 +5,9 @@
   "main": "test.js",
   "scripts": {
     "build": "tsc",
-    "verify-all-no-warn": "npm run build && node dist/verify --directory clover --directory clover-cap --directory sburbmons --directory sweet --directory create-a-blobbos --showWarnings false",
-    "verify-all": "npm run build && node dist/verify --directory clover --directory clover-cap --directory sburbmons --directory sweet --directory create-a-blobbos",
-    "verify-all-prune": "npm run build && node dist/verify --deleteUnexpected --directory clover --directory clover-cap --directory sburbmons --directory sweet --directory create-a-blobbos"
+    "verify-all-no-warn": "npm run build && node dist/verify --directory clover --directory clover-cap --directory sburbmons --directory wipmons --directory sweet --directory create-a-blobbos --showWarnings false",
+    "verify-all": "npm run build && node dist/verify --directory clover --directory clover-cap --directory sburbmons --directory wipmons --directory sweet --directory create-a-blobbos",
+    "verify-all-prune": "npm run build && node dist/verify --deleteUnexpected --directory clover --directory clover-cap --directory sburbmons --directory wipmons --directory sweet --directory create-a-blobbos"
   },
   "author": "",
   "license": "ISC",
