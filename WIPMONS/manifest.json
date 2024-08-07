@@ -1,7 +1,10 @@
 {
   "entityDirectories": [{
     "entities": [
-      "carpest"
+      "carpest", 
+      "veilefly",
+      "vakoon",
+      "dunebug"
     ],
     "directories": [{
       "extension": "png",
