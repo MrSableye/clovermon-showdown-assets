@@ -4,7 +4,7 @@ robocopy clover-cap/sprites ../clovermon-showdown-client/sprites /e
 robocopy clover-cap/audio ../clovermon-showdown-client/audio /e
 robocopy wack/sprites ../clovermon-showdown-client/sprites /e
 robocopy wack/audio ../clovermon-showdown-client/audio /e
-robocopy WIPMONS/sprites ../clovermon-showdown-client/audio /e
+robocopy WIPMONS/sprites ../clovermon-showdown-client/sprites /e
 robocopy sburbmons/sprites ../clovermon-showdown-client/sprites /e
 robocopy sweet/sprites ../clovermon-showdown-client/sprites /e
 robocopy create-a-blobbos/sprites ../clovermon-showdown-client/sprites /e
