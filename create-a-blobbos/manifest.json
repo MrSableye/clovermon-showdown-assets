@@ -347,7 +347,8 @@
         "blobbos-manticore",
         "blobbos-attack",
         "blobbos-defense",
-        "blobbos-speed"
+        "blobbos-speed",
+        "yanlos"
       ],
       "directories": [
         {
