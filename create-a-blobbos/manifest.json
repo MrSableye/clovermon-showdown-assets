@@ -348,7 +348,9 @@
         "blobbos-attack",
         "blobbos-defense",
         "blobbos-speed",
-        "yanlos"
+        "yanlos",
+        "blobbos-eon",
+        "blobboseon-f"
       ],
       "directories": [
         {
