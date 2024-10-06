@@ -246,6 +246,8 @@
         "blobbosfish-mega",
         "blobbosfossil-mega",
         "blobbosmarioparty-mega",
+        "blobbosparasleep-mega",
+        "blobbosdreaming-mega",
         "blobbos-duelist",
         "blobbosduelist-dark",
         "blobbos-rasta",
@@ -351,7 +353,9 @@
         "yanlos",
         "blobbos-eon",
         "blobboseon-f",
-        "blobbos-moth"
+        "blobbos-moth",
+        "blobbos-parasleep",
+        "blobbos-dreaming"
       ],
       "directories": [
         {
