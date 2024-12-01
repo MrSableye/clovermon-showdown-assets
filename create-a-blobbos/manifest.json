@@ -360,7 +360,11 @@
         "blobbos-fug",
         "blobbos-centipede",
         "blobbos-batteryacid",
-        "blobbos-basilisk"
+        "blobbos-basilisk",
+        "blobbos-traffic",
+        "blobbos-crimson",
+        "blobbos-fridge",
+        "blobbos-madoka"
       ],
       "directories": [
         {
