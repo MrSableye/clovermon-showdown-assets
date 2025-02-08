@@ -544,7 +544,24 @@
         "vanitwin",
         "vanitwin-f",
         "bambuya",
-        "ulmiraint"
+        "ulmiraint",
+        "ulmiraint-bug",
+        "ulmiraint-dark",
+        "ulmiraint-dragon",
+        "ulmiraint-electric",
+        "ulmiraint-fire",
+        "ulmiraint-fairy",
+        "ulmiraint-fighting",
+        "ulmiraint-flying",
+        "ulmiraint-ghost",
+        "ulmiraint-grass",
+        "ulmiraint-ground",
+        "ulmiraint-ice",
+        "ulmiraint-poison",
+        "ulmiraint-psychic",
+        "ulmiraint-rock",
+        "ulmiraint-steel",
+        "ulmiraint-water"
       ],
       "directories": [
         {
