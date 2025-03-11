@@ -679,6 +679,17 @@
       ]
     },
     {
+    "entities": [
+      "battle-deadgitrio"
+    ],
+    "directories": [{
+      "extension": "mp3",
+      "required": true,
+      "path": "audio",
+      "ignoredEntities": []
+    }]
+  },
+    {
       "entities": [
         "Alber"
       ],
