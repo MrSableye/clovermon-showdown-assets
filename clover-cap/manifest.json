@@ -549,6 +549,8 @@
         "carpedian",
         "wyldhaunt",
         "wyldhaunt-dullahan",
+        "vestinue",
+        "mircarmilla",
         "maysugeki",
         "cholefir",
         "firvid",
@@ -569,6 +571,10 @@
         "berylder",
         "cowefish",
         "hambone",
+        "daanbom",
+        "karinbom",
+        "vermity",
+        "trailrode",
         "yardstein",
         "faustival",
         "displacerk",
@@ -673,6 +679,17 @@
         }
       ]
     },
+    {
+    "entities": [
+      "battle-deadgitrio",
+    ],
+    "directories": [{
+      "extension": "mp3",
+      "required": true,
+      "path": "audio",
+      "ignoredEntities": []
+    }]
+  },
     {
       "entities": [
         "Alber"
