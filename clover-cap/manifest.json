@@ -681,7 +681,13 @@
     },
     {
     "entities": [
-      "battle-deadgitrio"
+      "battle-deadgitrio",
+      "battle-bugtrio",
+      "battle-doomsday",
+      "battle-nmn",
+      "battle-stormchaser",
+      "battle-ultrabeastcope",
+      "battle-wild"
     ],
     "directories": [{
       "extension": "mp3",
