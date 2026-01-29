@@ -373,7 +373,8 @@
         "blobbos-witch",
         "blobbos-sunflower",
         "blobbos-moonflower",
-        "blobbos-batsquatch"
+        "blobbos-batsquatch",
+        "blobbos-binding"
       ],
       "directories": [
         {
@@ -410,3 +411,4 @@
     }
   ]
 }
+
