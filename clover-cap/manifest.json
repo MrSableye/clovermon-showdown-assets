@@ -671,18 +671,16 @@
         "hakuja",
         "nekroz",
         "kaijun8",
-        
-
-
-	"scolifex",
-	"occlone",
-	"maleentis",
-	"medusith",
-	"tritanic", 
-  "triactite",
-	"permaceros",
-  "shiribiko-ultra",
-  "substrale"
+        "scolifex",
+        "sycosect",
+	      "occlone",
+	      "maleentis",
+	      "medusith",
+	      "tritanic", 
+        "triactite",
+	      "permaceros",
+        "shiribiko-ultra",
+        "substrale"
       ],
       "directories": [
         {
