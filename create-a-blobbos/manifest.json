@@ -410,6 +410,16 @@
           "ignoredEntities": []
         }
       ]
+    }, {
+      "entities": [
+        "ygo-sting"
+      ],
+      "directories": [{
+        "extension": "mp3",
+        "required": true,
+        "path": "audio",
+        "ignoredEntities": []
+      }]
     }
   ]
 }
