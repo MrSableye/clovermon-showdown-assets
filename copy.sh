@@ -8,3 +8,4 @@ cp -R ./wack/audio/* ../clovermon-showdown-client/audio/
 cp -R ./sburbmons/sprites/* ../clovermon-showdown-client/sprites/
 cp -R ./sweet/sprites/* ../clovermon-showdown-client/sprites/
 cp -R ./create-a-blobbos/sprites/* ../clovermon-showdown-client/sprites/
+cp -R ./create-a-blobbos/audio/* ../clovermon-showdown-client/audio/

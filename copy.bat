@@ -8,3 +8,4 @@ robocopy WIPMONS/sprites ../clovermon-showdown-client/sprites /e
 robocopy sburbmons/sprites ../clovermon-showdown-client/sprites /e
 robocopy sweet/sprites ../clovermon-showdown-client/sprites /e
 robocopy create-a-blobbos/sprites ../clovermon-showdown-client/sprites /e
+robocopy create-a-blobbos/audio ../clovermon-showdown-client/audio /e
